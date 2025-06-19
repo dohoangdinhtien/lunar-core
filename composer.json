@@ -1,5 +1,5 @@
 {
-    "name": "lunarphp/core",
+    "name": "dohoangdinhtien/lunar-core",
     "description": "Lunar Laravel e-commerce core functionality.",
     "keywords": ["lunar", "laravel", "ecommerce", "e-commerce", "headless", "store", "shop", "cart"],
     "type": "library",
@@ -29,7 +29,7 @@
         }
     },
     "require": {
-        "php": "^8.2",
+        "php": "^8.2|^8.3|^8.4",
         "ext-bcmath": "*",
         "ext-exif": "*",
         "ext-intl": "*",
